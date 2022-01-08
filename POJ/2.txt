@@ -1,0 +1,24 @@
+Scenario #1:
+impossible
+
+Scenario #2:
+impossible
+
+Scenario #3:
+impossible
+
+Scenario #4:
+impossible
+
+Scenario #5:
+A1C2E1F3D4E2F4D3B4A2C1B3D2B1A3C4B2A4C3E4F2D1E3F1
+
+Scenario #6:
+A1C2E1D3C1A2B4D5E3D1B2A4C3E2D4B5A3B1D2E4C5B3A5C4E5
+
+Scenario #7:
+impossible
+
+Scenario #8:
+A1C2A3B1D2B3C1A2C3D1B2D3E1G2E3F1H2F3G1E2G3H1F2H3
+
